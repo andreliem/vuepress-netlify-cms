@@ -12,7 +12,7 @@ module.exports = {
       },
       {
         text: 'Admin',
-        link: '/admin',
+        link: '/admin/#/',
       }
     ]
   }
