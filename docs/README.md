@@ -1,4 +1,15 @@
 ---
-title: The Second Post!
+home: true 
+heroImage: /images/vuejsradar.png
+actionText: Try it Out →
+actionLink: /welcome
+features:
+- title: Markdown Editing 
+  details: Netlify's CMS provides a flexible Markdown Editor 
+- title: Asset Management 
+  details: Easily upload images to your repo with an uploader 
+- title: Powerful Deployments
+  details: Leverage the power of netlify and VuePress to deploy statically 
+footer: MIT Licensed | Copyright © 2018-present Andre Liem (www.vuejsradar.com) 
+title: FRONT PAGE
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
