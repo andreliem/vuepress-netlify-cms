@@ -24,8 +24,6 @@ La configuration comporte deux manoeuvres:
 
 ## STEP 1 – LOGIN TO GOOGLE APPS ADMIN CONSOLE
 
-![image alt text](./image_0.png)
-
 ## STEP 2 - NAVIGATE AND CLICK ON GOOGLE APPS
 
 ![image alt text](./image_1.png)
