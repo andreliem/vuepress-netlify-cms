@@ -1,5 +1,5 @@
 ---
-title: BLA BLA YO YO CONFIGURATION DU CATCHALL + ALIAS GMAIL POUR COURRIELS ENTRANTS ODOO
+title: CONFIGURATION DU CATCHALL + ALIAS GMAIL POUR COURRIELS ENTRANTS ODOO
 ---
 
 ## Contexte
@@ -24,102 +24,75 @@ La configuration comporte deux manoeuvres:
 
 **_Suivre les étapes du guide ci-dessous (en Anglais)._**
 
-STEP 1 – LOGIN TO GOOGLE APPS ADMIN CONSOLE
+## STEP 1 – LOGIN TO GOOGLE APPS ADMIN CONSOLE
 
 ![image alt text](./image_0.png)
 
-STEP 2 - NAVIGATE AND CLICK ON GOOGLE APPS
+## STEP 2 - NAVIGATE AND CLICK ON GOOGLE APPS
 
 ![image alt text](./image_1.png)
 
-STEP 3 - NAVIGATE AND CLICK ON GMAIL
+## STEP 3 - NAVIGATE AND CLICK ON GMAIL
 
-![image alt text](image_2.png)
+![image alt text](./image_2.png)
 
-STEP 4 – NAVIGATE AND CLICK ON DEFAULT ROUTING
+## STEP 4 – NAVIGATE AND CLICK ON DEFAULT ROUTING
 
-![image alt text](image_3.png)				
+![image alt text](./image_3.png)				
 
-				
 
-			
+## STEP 5 – CLICK ON ADD SETTING TO DEFINE RULE
 
-			 	 	 		
+![image alt text](./image_4.png)		
 
-			
+## STEP 6 – DEFINE ROUTING FOR ALL RECIPIENTS
 
-				
-
-					
-
-STEP 5 – CLICK ON ADD SETTING TO DEFINE RULE	![image alt text](image_4.png)		
-
-		 	 	 		
-
-STEP 6 – DEFINE ROUTING FOR ALL RECIPIENTS
-
-![image alt text](image_5.png)
+![image alt text](./image_5.png)
 
 Once you are in your Google Apps control panel, click on Google Apps as shown in the screenshot			
 
-				
+## STEP 7 – CHANGE THE ENVELOPE RECIPIENT WITH YOUR CATCH ALIAS
 
-			
-
-		
-
-				
-
-			
-
-		
-
-STEP 7 – CHANGE THE ENVELOPE RECIPIENT WITH YOUR CATCH ALIAS
-
-![image alt text](image_6.png)
+![image alt text](./image_6.png)
 
 * Choose "Change envelope recipient" (“Modifier le destinataire de l’enveloppe”)
 
 * Input the alias catchall (we will create this alias in the next section)
 
-STEP 8 - APPLY THIS RULE ONLY FOR USERS WHICH DO NOT EXIST
+## STEP 8 - APPLY THIS RULE ONLY FOR USERS WHICH DO NOT EXIST
 
-		
-
-### ![image alt text](image_7.png)
+### ![image alt text](./image_7.png)
 
 * Choose "Perform this action only on non-reconized addresses
 
 * SAVE
 
-STEP 9 - NAVIGATE BACK TO THE MAIN MENU
+## STEP 9 - NAVIGATE BACK TO THE MAIN MENU
 
-![image alt text](image_8.png)
+![image alt text](./image_8.png)
 
-STEP 10 - NAVIGATE AND CLICK ON USERS
-![image alt text](image_9.png)
+## STEP 10 - NAVIGATE AND CLICK ON USERS
 
-STEP 11 - SEARCH AND SELECT THE USER THAT WILL BE USED AS AN INBOX
+![image alt text](./image_9.png)
 
-![image alt text](image_10.png)
+## STEP 11 - SEARCH AND SELECT THE USER THAT WILL BE USED AS AN INBOX
 
-STEP 12 - NAVIGATE AND CLICK ON USER INFORMATION
+![image alt text](./image_10.png)
 
-![image alt text](image_11.png)
+## STEP 12 - NAVIGATE AND CLICK ON USER INFORMATION
 
+![image alt text](./image_11.png)
 
+## STEP 13 - NAVIGATE AND CLICK ON EMAIL ALIASES
 
-STEP 13 - NAVIGATE AND CLICK ON EMAIL ALIASES
+![image alt text](./image_12.png)
 
-![image alt text](image_12.png)
+## STEP 14 - ADD A CATCHALL ALIAS AND SAVE
 
-STEP 14 - ADD A CATCHALL ALIAS AND SAVE
-
-![image alt text](image_13.png)
+![image alt text](./image_13.png)
 
 * Add a "catchall" alias for your domain
 
 * SAVE
 
-YOU ARE DONE! 🎉
-
+### YOU ARE DONE! 🎉
