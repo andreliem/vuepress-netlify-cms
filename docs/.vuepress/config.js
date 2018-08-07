@@ -4,11 +4,7 @@ module.exports = {
   themeConfig: {
     docsDir: 'docs',
     repo: 'andreliem/vuepress-netlify-cms',
-    sidebar: [
-      '/',
-      '/welcome',
-      '/test'
-    ],
+    sidebar: 'auto',
     nav: [
       {
         text: 'Admin',
